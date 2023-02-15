@@ -15,6 +15,7 @@ Take a look at the following code:
 ```
 
 Explain why line 4 and line 6 output different numbers.
+Because the line 4 is for function and the line 6 is for the first output
 
 ## Question 2
 
@@ -34,6 +35,7 @@ console.log(y)
 ```
 
 What will be the output of this code. Explain your answer in 50 words or less.
+Line 33 will output x and line 34 would be undefined
 
 ## Question 3
 
